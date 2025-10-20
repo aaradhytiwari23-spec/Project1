@@ -1,0 +1,13 @@
+header{
+    text-align: center;
+    color: #FFDD4A;
+    font-size: 30px;
+    border-bottom: 2px solid #8E9DCC;
+    border-top: 2px solid #8E9DCC;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+body{
+    background-color: #2B2D42;
+}
