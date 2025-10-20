@@ -21,3 +21,20 @@ footer{
     padding-top: 10px;
     padding-bottom: 10px; 
 }
+
+.contain{
+    margin-left: 500px;
+}
+
+table{
+    border-bottom: 2px solid #8E9DCC;
+    border-top: 2px solid #8E9DCC;
+    border-left: 2px solid #8E9DCC;
+    border-right: 2px solid #8E9DCC;
+    border-collapse: collapse;
+}
+
+td{
+    border-bottom: 2px solid #8E9DCC;
+    border-collapse: collapse;
+}
