@@ -33,6 +33,8 @@ table{
     border-right: 2px solid #8E9DCC;
     border-collapse: collapse;
     width: 500px;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 td{
@@ -46,9 +48,49 @@ td{
     width:300px;
     height: 350px;
     padding: 4px;
-    margin: 3px;
+    margin: 10px;
 }
 
 .photo{
     text-align: center;
+}
+
+.Instagram{
+    color: #FF715B;
+    font-size: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-weight: bold;
+}
+
+.Youtube{
+    color: #FF715B;
+    font-size: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-weight: bold;
+}
+
+.Spotify{
+    color: #FF715B;
+    font-size: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-weight: bold;
+}
+
+.Site{
+    color: #FF715B;
+    font-size: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-weight: bold;
+}
+
+.X{
+    color: #FF715B;
+    font-size: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-weight: bold;
 }
