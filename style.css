@@ -56,7 +56,6 @@ td{
 }
 
 .Instagram{
-    color: #FF715B;
     font-size: 20px;
     padding-top: 15px;
     padding-bottom: 15px;
@@ -64,7 +63,6 @@ td{
 }
 
 .Youtube{
-    color: #FF715B;
     font-size: 20px;
     padding-top: 15px;
     padding-bottom: 15px;
@@ -72,7 +70,6 @@ td{
 }
 
 .Spotify{
-    color: #FF715B;
     font-size: 20px;
     padding-top: 15px;
     padding-bottom: 15px;
@@ -80,7 +77,6 @@ td{
 }
 
 .Site{
-    color: #FF715B;
     font-size: 20px;
     padding-top: 15px;
     padding-bottom: 15px;
@@ -88,9 +84,17 @@ td{
 }
 
 .X{
-    color: #FF715B;
     font-size: 20px;
     padding-top: 15px;
     padding-bottom: 15px;
     font-weight: bold;
+}
+
+a{
+    text-decoration: none;
+    color: #FF715B;
+}
+
+.img{
+    width: 20px;
 }
