@@ -57,37 +57,43 @@ td{
 
 .Instagram{
     font-size: 20px;
-    padding-top: 15px;
+    padding-top: 10px;
     padding-bottom: 15px;
     font-weight: bold;
+    text-align: start;
 }
 
 .Youtube{
     font-size: 20px;
-    padding-top: 15px;
+    padding-top: 10px;
     padding-bottom: 15px;
     font-weight: bold;
+    text-align: start;
 }
 
 .Spotify{
     font-size: 20px;
-    padding-top: 15px;
+    padding-top: 10px;
     padding-bottom: 15px;
     font-weight: bold;
+    text-align: start;
 }
 
 .Site{
     font-size: 20px;
-    padding-top: 15px;
+    padding-top: 10px;
     padding-bottom: 15px;
     font-weight: bold;
+    margin-right: 100px;
+    text-align: start;
 }
 
 .X{
     font-size: 20px;
-    padding-top: 15px;
+    padding-top: 10px;
     padding-bottom: 15px;
     font-weight: bold;
+    text-align: start;
 }
 
 a{
@@ -95,6 +101,29 @@ a{
     color: #FF715B;
 }
 
-.img{
-    width: 20px;
+img{
+    width: 30px;
+}
+
+.site_icon{
+    padding-right: 200px;
+    padding-left: 80px;
+}
+
+.X_icon{
+    padding-right: 230px;
+    padding-left: 80px;
+}
+.instagram_icon{
+    padding-right: 210px;
+    padding-left: 80px;
+}
+.spotify_icon{
+    padding-right: 227px;
+    padding-left: 80px;
+}
+
+.youtube_icon{
+    padding-right: 220px;
+    padding-left: 80px;
 }
