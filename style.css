@@ -1,7 +1,7 @@
 header{
     text-align: center;
     color: #FFDD4A;
-    font-size: 30px;
+    font-size: 40px;
     border-bottom: 2px solid #8E9DCC;
     border-top: 2px solid #8E9DCC;
     padding-top: 10px;
@@ -126,4 +126,8 @@ img{
 .youtube_icon{
     padding-right: 220px;
     padding-left: 80px;
+}
+
+td:hover{
+    background-color: #8E9DCC
 }
